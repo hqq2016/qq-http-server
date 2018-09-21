@@ -1,0 +1,16 @@
+{
+  "name": "qq-http-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "qq-http-server": "./bin/www.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0",
+    "ejs": "^2.6.1",
+    "mime": "^2.3.1",
+    "user": "0.0.0"
+  }
+}

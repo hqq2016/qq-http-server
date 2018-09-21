@@ -1,0 +1,1 @@
+document.write('我是JS插入的东西')
